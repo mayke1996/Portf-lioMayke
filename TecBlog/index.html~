@@ -1,0 +1,70 @@
+<!doctype html>
+
+<html>
+
+	<head>
+	
+		<title>TecBlog - O seu blog de tecnologia</title>
+		<meta charset="utf-8"/>
+		<link rel="stylesheet" type="text/css" href="css/estilo.css"/>
+		
+		
+	</head>
+
+
+	<body>
+
+		<div id="navegacao">
+				<div id="area">
+					<h1 id="logo"><span class="verde">Tec</span>Blog</h1>
+					<div id="menu">
+						<a href="index.html">Home</a>
+						<a href="games.html">Games</a>
+						<a href="apps.html">Apps</a>
+						<a href="eletronicos.html">Eletrônicos</a>
+										
+					</div>
+				</div>
+		</div>
+		
+		<div id="area-principal">
+			<div id="postagem">
+				<h2>Titulo da postagem</h2>
+				<span class="data-postagem">Postado em 27 de Fevereiro 2019</span>		
+				<img class="img-postagem" src="img/imagem1.png">
+				<p>
+				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean mi est, vulputate non sem sit amet, iaculis vestibulum leo. Vivamus sed molestie dolor. Duis molestie nisl vitae orci fermentum, at convallis mauris vulputate. Integer eget imperdiet neque. Sed nec sodales tellus, id ullamcorper magna. Aenean id hendrerit nisi. Donec consectetur luctus rutrum. Vivamus tempus diam dolor, vitae fringilla orci eleifend eget. Nulla lobortis viverra ante, nec tincidunt nisi. Maecenas sit amet convallis dolor. Morbi in urna nec arcu eleifend auctor.
+				</p>	
+				
+				<span class="postado">Postado por Mayke Ferreira</span>
+			</div>
+			
+			<div id="postagem">
+				<h2>Titulo da postagem 2</h2>
+				<span class="data-postagem">Postado em 27 de Fevereiro 2019</span>		
+				<img class="img-postagem" src="img/imagem1.png">
+				<p>
+				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean mi est, vulputate non sem sit amet, iaculis vestibulum leo. Vivamus sed molestie dolor. Duis molestie nisl vitae orci fermentum, at convallis mauris vulputate. Integer eget imperdiet neque. Sed nec sodales tellus, id ullamcorper magna. Aenean id hendrerit nisi. Donec consectetur luctus rutrum. Vivamus tempus diam dolor, vitae fringilla orci eleifend eget. Nulla lobortis viverra ante, nec tincidunt nisi. Maecenas sit amet convallis dolor. Morbi in urna nec arcu eleifend auctor.
+				</p>	
+				
+				<span class="postado">Postado por Mayke Ferreira</span>
+			</div>
+			
+						<div id="postagem">
+				<h2>Titulo da postagem 3</h2>
+				<span class="data-postagem">Postado em 27 de Fevereiro 2019</span>		
+				<img class="img-postagem" src="img/imagem1.png">
+				<p>
+				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean mi est, vulputate non sem sit amet, iaculis vestibulum leo. Vivamus sed molestie dolor. Duis molestie nisl vitae orci fermentum, at convallis mauris vulputate. Integer eget imperdiet neque. Sed nec sodales tellus, id ullamcorper magna. Aenean id hendrerit nisi. Donec consectetur luctus rutrum. Vivamus tempus diam dolor, vitae fringilla orci eleifend eget. Nulla lobortis viverra ante, nec tincidunt nisi. Maecenas sit amet convallis dolor. Morbi in urna nec arcu eleifend auctor.
+				</p>	
+				
+				<span class="postado">Postado por Mayke Ferreira</span>
+			</div>
+		</div>
+
+
+
+	</body>
+
+
+</html>

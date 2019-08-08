@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+
+<head>
+
+	<title>JM Viagens - Quem somos</title>
+	<meta charset="utf-8"/>
+
+</head>
+
+<body>
+
+	<table border="0" width="900" align="center">
+		<tr>
+			<td><img src="imagens/logo.png"></td>		
+			<td align="right">
+			<a href="index.html" >Home</a> |
+			<a href="quem-somos.html" >Quem somos</a> |
+			<a href="contato.html" >Contato</a>
+			</td>		
+		</tr>	
+		
+		<tr>
+			<td colspan="2">
+				<img src="imagens/principal.png">			
+			</td>		
+		</tr>		
+		
+		<tr>
+			<td colspan="2">
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec augue velit. In ex ante, malesuada vel ante a, elementum sollicitudin est. Aliquam erat volutpat. Vivamus convallis porttitor lacus, quis dignissim augue semper ac. Pellentesque aliquam commodo orci et fringilla. Etiam a elit non risus condimentum accumsan nec sed est. Pellentesque ex arcu, congue sed venenatis non, finibus eget est. Fusce sapien velit, ornare id congue ut, lobortis sed sapien. Morbi hendrerit dui dui, ut sollicitudin diam semper ac. Morbi consectetur faucibus erat, eu pulvinar erat pretium pretium. Curabitur mollis lacus in rhoncus tristique. Mauris tristique gravida tempus. Integer molestie, libero ac auctor rutrum, tortor purus consequat tortor, at interdum lacus elit id enim. Vivamus at massa vitae lorem pretium posuere at eget lectus. Integer tempor mollis tempor.</p>
+
+
+			</td>		
+		</tr>
+		
+		<tr>
+			<td align="center" colspan="2"><h4>Todos os direitos reservados &reg;</h4></td>		
+		</tr>
+		
+	</table>
+
+</body>
+
+</html>
