@@ -1,0 +1,36 @@
+<!DOCTYPE HTML>
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8">
+
+		<title>Jquery eventos mouse</title>
+
+		<!-- jquery -->
+		<script src="https://code.jquery.com/jquery-2.2.0.js"></script>
+
+		<script type="text/javascript">
+		
+			$(document).ready( function() {
+				
+				//click
+				//dlbclick
+				//mousedown
+				//mouseover
+				//mouseout				
+				
+				$('#div1').mouseover( function() {
+					alert('Elemento foi clicado');
+				});				
+				
+			});
+			
+		</script>
+		
+		
+	</head>
+
+	<body>
+		<div id="div1" style="width: 150px; height: 150px; background: #CCC"></div>
+		
+	</body>
+</html>

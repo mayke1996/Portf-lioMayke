@@ -1,0 +1,37 @@
+<DOCTYPE HTML>
+
+<html lang="pt-br">
+
+	<head>
+	
+		<meta charset="UTF-8"/>
+		
+		<title>Function</title>
+		
+		<script type="text/javascript">
+			
+			// onclick
+			// ondblclick
+			// onmousedown
+			// onmouseover
+			// onmouseout			
+			
+			function msgBoasVindas() {
+				alert('Seja bem vindo, você pressionou o botão esquerdo do mouse sobre este elemento');
+			}
+			
+			
+		</script>
+		
+		
+	</head>
+	
+	<body>
+		
+		<div onmouseout="msgBoasVindas()" onclick="msgBoasVinda()" style="background: #CCC; height: 150px; width: 150px;">
+		
+		</div>		
+		
+	</body>
+
+</html>

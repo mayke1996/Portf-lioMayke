@@ -1,0 +1,29 @@
+<DOCTYPE HTML>
+
+<html lang="pt-br">
+
+	<head>
+	
+		<meta charset="UTF-8"/>
+		
+		<title>Function</title>
+		
+		<script type="text/javascript">
+			
+			// onkeydown
+			// onkeypress
+			// onkeyup
+		
+
+		</script>
+		
+		
+	</head>
+	
+	<body>
+		<input onkeyup="alert('Uma tecla é liberada')" type="text"/>
+
+		
+	</body>
+
+</html>
