@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+	
+		<title>Otimizando Spotify</title>
+		<link href="estilo.css" media="screen" rel="stylesheet"/>
+		
+	</head>
+	
+	<body>
+	
+		<div class="item">
+			Lorem. Ullamcorper integer. Eget cras eu consectetuer lacinia, nulla id tincidunt a class lacinia habitant. Fames parturient ante consequat senectus sociosqu aptent vestibulum. Leo conubia. Fermentum class curae netus.
+Lorem ipsum dolor sit amet, consecteteur adipiscing elit dictumst. Vivamus leo at CONTEÚDO FORA DA CAIXA semper laoreet. Sit, nullam cubilia diam cum. Primis amet, orci laoreet euismod. Magnis. Vulputate vestibulum vel felis neque, taciti scelerisque. Iaculis platea, porta nonummy morbi erat sem proin pede sed. Vitae orci vivamus purus nisi nascetur per. Suspendisse cras eros, sociosqu consectetuer, mattis ad, elit metus tristique ligula interdum hac. Lectus. Rutrum. Nec consequat vivamus, lacus vestibulum posuere eget ridiculus tellus, netus turpis morbi sodales mi. Auctor magna phasellus duis. Tortor, maecenas ac primis.
+
+		</div>
+		
+	</body>
+
+</html>
